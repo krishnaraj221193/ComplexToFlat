@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NestToFlatProject", "NestToFlatProject.csproj", "{DAB4A6A5-8022-4C02-A1B2-A208EC5927CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAB4A6A5-8022-4C02-A1B2-A208EC5927CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAB4A6A5-8022-4C02-A1B2-A208EC5927CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAB4A6A5-8022-4C02-A1B2-A208EC5927CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAB4A6A5-8022-4C02-A1B2-A208EC5927CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {16C5E919-DA0A-4B6A-98A7-C77ED9E354F0}
+	EndGlobalSection
+EndGlobal
